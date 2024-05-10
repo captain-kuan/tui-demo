@@ -10,5 +10,6 @@ anyhow = "1.0.83"
 color-eyre = "0.6.3"
 crossbeam-channel = "0.5.12"
 crossterm = "0.27.0"
+log = "0.4.21"
 ratatui = {version = "0.26.2",features=["crossterm","widget-calendar"]}
 time = "0.3.36"
